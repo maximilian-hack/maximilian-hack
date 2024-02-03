@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hey, I'm Max! 👋
 
-<!--
-**maximilian-hack/maximilian-hack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+🔭 I’m currently working on: My personal website, where I'm exploring new design ideas and showcasing my projects.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning: Linux, diving into the world of open-source operating systems and server management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on: Although I've never collaborated before, I'm open to new opportunities and excited to work with others on interesting projects.
+
+🤔 I’m looking for help with: Nothing specific at the moment, but I'm always open to learning from others and sharing knowledge.
+
+💬 Ask me about: Anything you'd like! Whether it's web development, Linux, or anything else, I'm here to help.
+
+📫 How to reach me: You can reach out to me via email at 127511368+maximilian-hack@users.noreply.github.com.
+
+⚡ Fun fact: I enjoy experimenting with different programming languages and technologies in my free time.
