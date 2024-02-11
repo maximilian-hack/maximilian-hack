@@ -11,6 +11,6 @@
 
 💬 Ask me about: Anything you'd like! Whether it's web development, Linux, or anything else, I'm here to help.
 
-📫 How to reach me: You can reach out to me via email at 127511368+maximilian-hack@users.noreply.github.com.
+📫 How to reach me: You can reach out to me via email at ```contact@max-hack.de```.
 
 ⚡ Fun fact: I enjoy experimenting with different programming languages and technologies in my free time.
