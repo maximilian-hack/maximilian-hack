@@ -30,6 +30,17 @@
 - url-shortener - A simple URL shortener, which I'm planning to build using Node.js, Express and MySQL, orchestrated with Docker compose.
 - expense-tracker - A simple expense tracker, which I'm planning to build. I'm still deciding on the tech stack, but I'm considering learning React and most likely Node.js.
 
+### my favorite tools and technologies
+<a href="https://www.jetbrains.com/"><img src="./assets/jetbrainsIcon32x32.svg" height="32" alt="Jetbrains Icon"></a>
+<a href="https://docker.com"><img src="./assets/docker-icon.svg" height="32" alt="Docker Icon"></a>
+<a href="https://github.com/docker/compose"><img src="./assets/docker-compose-logo.png" height="32" alt="Docker compose Icon"></a>
+<a href="https://nodejs.org/en" ><img src="./assets/nodejs.png" height="32" alt="Node.js Icon"></a>
+<a href="https://www.nginx.com" ><img src="./assets/NGINX-icon.svg" height="32" alt="NGINX Icon"></a>
+<a href="https://github.com" ><img src="./assets/github-icon-white.svg" height="32" alt="Github Icon"></a>
+<a href="https://ubuntu.com" ><img src="./assets/ubuntu-icon.svg" height="32" alt="Ubuntu Icon"></a>
+<a href="https://www.alpinelinux.org" ><img src="./assets/alpine-icon.svg" height="32" alt="Alpine Icon"></a>
+<a href="https://www.debian.org" ><img src="./assets/debian-icon.svg" height="32" alt="Debian Icon"></a>
+
 ### my stats:
 Please keep in mind, that these are only public repositories.  
 _I'm of course still working on improving my GitHub stats._
