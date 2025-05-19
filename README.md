@@ -19,7 +19,7 @@
 
 
 ### my projects:
-- [My personal website](https://max-hack.de) - My personal website, where I showcase my projects and share my thoughts on various topics.
+- [max-hack.de](https://max-hack.de) - My personal website, where I showcase my projects and share my thoughts on various topics.
 - My cheatsheets - not public yet, but I'm planning to share my cheatsheets on various topics, such as web development, Linux, Docker, and more.
 - My dotfiles - not public yet, but I'm planning to share my dotfiles, which I use to customize my Linux and macOS environment.
 - this README - I'm planning to improve this README by adding more information and making it more visually appealing.
